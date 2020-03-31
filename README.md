@@ -18,7 +18,7 @@ Convert The case of a given string. The tool automatically copies the output to 
 -s  Convert given string to sentence Case. eg `python app.py -str "hello world" -to "s"` -> Hello world
 
 ## Dependencies
-It uses pyperclip to copy output to [clipboard](https://pypi.org/project/pyperclip/). Install it using `pip install pyperclip` 
+It uses [pyperclip](https://pypi.org/project/pyperclip/) to copy output to clipboard. Install it using `pip install pyperclip` 
 
 ## Authors
 
